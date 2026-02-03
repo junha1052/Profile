@@ -13,10 +13,13 @@
 - **Deployment & Data Tools**: Docker, Git, GitHub Actions, AWS, GCP, Azure, Excel, Power BI, Tableau
 
 # 수상, 학회 발표
-+ 2023.9 SPWL(세계대회) 5th Place
 + 2023.7 지질자원 AI 아이디어 공모전 입상
 + 2024.7 직무분석경진대회 최우수상
 + 2025.4 지구물리탐사 학술 대회 발표
++ Travel Award, INFORMS in Atlanta, GA — 2025  
++ 1st Place, SW Net Zero Hackathon — 2025 
++ 2nd Place (Poster Session), Google Solution Challenge Hackathon — 2025
++ 5th PDDA International Machine Learning Competition, SPWLA 
 
 
 
