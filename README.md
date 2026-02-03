@@ -1,4 +1,4 @@
-# 포트폴리오
+# Portfolio
 ---
   # 자기소개 
 + 이름: 박준하  
@@ -7,15 +7,16 @@
 + 이메일 : pjh1052ly@naver.com
 + Github : https://github.com/junha1052/
 
-# 사용기술
-+ Java, CSS, HTML
-+ Python, C, C++, MATLAB
+# Skills
+- **Programming & Backend**: Python, C++, JavaScript, SQL, Django, FastAPI
+- **ML & AI**: PyTorch, TensorFlow, scikit-learn, Hugging Face, LangChain (RAG), Multimodal & Vision Models
+- **Deployment & Data Tools**: Docker, Git, GitHub Actions, AWS, GCP, Azure, Excel, Power BI, Tableau
 
 # 수상, 학회 발표
 + 2023.9 SPWL(세계대회) 5th Place
 + 2023.7 지질자원 AI 아이디어 공모전 입상
 + 2024.7 직무분석경진대회 최우수상
-+ 2025.4 지구물리탐사 학술 대회 발표(예정)
++ 2025.4 지구물리탐사 학술 대회 발표
 
 
 
